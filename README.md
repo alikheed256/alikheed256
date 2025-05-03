@@ -1,5 +1,5 @@
 <!-- Header image -->
-![Header](https://github.com/alikheed256/alikheed256/raw/main/header.png)
+![Header](profile.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Khamisi ali</h1>
