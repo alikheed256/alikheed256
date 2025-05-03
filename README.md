@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer & Network Engineer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliKhamisDev&label=Profile%20views&color=0e75b6&style=flat" alt="AliKhamisDev" />
+  <img src="https://komarev.com/ghpvc/?username=alikheed256&label=Profile%20views&color=0e75b6&style=flat" alt="alikheed256" />
 </p>
 
 ---
@@ -18,6 +18,7 @@
         <li>🌱 I’m exploring <strong>DevOps</strong>, <strong>cloud security</strong>, and <strong>advanced networking</strong></li>
         <li>💡 I'm passionate about smart tech like <strong>AI-powered health systems</strong>, <strong>IoT</strong>, and <strong>real-time analytics</strong></li>
         <li>📫 Reach me: <a href="mailto:alikheed256@gmail.com">alikheed256@gmail.com</a></li>
+        <li>🎫 Linkedin: <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BQeYnqhGuQO%2Bhp8gBEELKwA%3D%3D">Linkedin</a></li>
         <li>🧠 Fun Fact: I love coding with coffee ☕</li>
       </ul>
     </td>
