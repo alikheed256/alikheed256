@@ -1,8 +1,9 @@
 <!-- Header image -->
-![Header](https://github.com/alikheed256/alikheed256/assets/your-header-image-url)
+![Header](https://github.com/alikheed256/alikheed256/raw/main/header.png)
+
 
 <h1 align="center">Hi 👋, I'm Khamisi ali</h1>
-<h3 align="center">Full-Stack Developer | Cloud & Network Engineer </h3>
+<h3 align="center">Full-Stack Developer & Network Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AliKhamisDev&label=Profile%20views&color=0e75b6&style=flat" alt="AliKhamisDev" />
