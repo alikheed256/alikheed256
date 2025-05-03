@@ -13,11 +13,23 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building robust full-stack apps with **MERN Stack**, **AWS**, and **MySQL**
-- 🌱 I’m exploring  **Network security**, and **advanced networking**
-- 💡 I'm passionate about smart tech like **AI-powered health systems**, **IoT**, and **real-time analytics**
-- 📫 Reach me: [alikheed256@gmail.com](mailto:alikheed256@gmail.com)
-- 🧠 Fun Fact: I just love coding😂
+<table>
+  <tr>
+    <td width="55%">
+      <ul>
+        <li>🔭 I’m currently building robust full-stack webApps with <strong>MERN Stack</strong>, <strong>AWS</strong>, and <strong>MySQL</strong></li>
+        <li>🌱 I’m exploring <strong>DevOps</strong>, <strong>cloud security</strong>, and <strong>advanced networking</strong></li>
+        <li>💡 I'm passionate about smart tech like <strong>AI-powered health systems</strong>, <strong>IoT</strong>, and <strong>real-time analytics</strong></li>
+        <li>📫 Reach me: <a href="mailto:alikheed256@gmail.com">alikheed256@gmail.com</a></li>
+        <li>🧠 Fun Fact: I love coding with coffee ☕</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding gif">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
